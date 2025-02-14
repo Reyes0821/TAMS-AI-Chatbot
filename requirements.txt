@@ -1,0 +1,13 @@
+llama_index==0.10.65
+llama_index_cli==0.1.13
+llama_index_core==0.10.67
+llama_index_embeddings_langchain==0.1.2
+llama_index_llms_langchain==0.3.0
+llama_index_readers_file==0.1.33
+llama_index_readers_llama_parse==0.1.6
+llama_parse==0.4.9
+langchain==0.2.13
+langchain_google_genai==1.0.8
+langchain_community==0.2.12
+langchain_core==0.2.30
+langchain_text_splitters==0.2.2
